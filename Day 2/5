@@ -1,1 +1,4 @@
+Q.    Open Interpreter and type __name__ . What was the output of it?
 
+Ans. >>>  __name__
+ '__main__'
