@@ -1,1 +1,12 @@
+Q.   What happens when you open Interpreter and type dir() without any argument.
+
+Ans. When we type dir() without any argument,  this will return objects in 
+current scope i.e "__builtin__", "__doc__", "__name__" and "__package__". 
+This is nothing but default behavior of dir() which returns objects in 
+current scope, but when you call dir() with an argument it will returns
+the attributes of the given object or in simple term the methods of respective object
+
+EXAMPLE--  dir()
+['__annotations__', '__builtins__', '__doc__', '__loader__', '__name__', '__package__', '__spec__']
+
 
