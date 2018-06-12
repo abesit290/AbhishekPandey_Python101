@@ -1,1 +1,18 @@
+  Q.   Create a file and write down shebang of Bash and Perl
+  
+Ans. Shebang of bash--
 
+#!/usr/bin/env bash
+#!/bin/bash
+#!/bin/sh
+#!/bin/sh -
+
+Shebang of Perl--
+
+#! perl
+
+#! perl.exe
+
+#! fullpath/perl(/perl.exe)
+
+#! partialpath/perl(/perl.exe)
